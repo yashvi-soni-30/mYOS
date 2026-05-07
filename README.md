@@ -10,9 +10,15 @@ A simple custom x86 operating system written in C and Assembly.
 
 Download and install QEMU for Windows:
 
-[QEMU Windows Builds](https://qemu.weilnetz.de/?utm_source=chatgpt.com)
+Install QEMU using Windows Package Manager:
 
-After installation, verify QEMU works:
+Open PowerShell as Administrator and run:
+
+```powershell
+winget install qemu
+```
+
+After installation, verify:
 
 ```powershell
 qemu-system-i386 --version
