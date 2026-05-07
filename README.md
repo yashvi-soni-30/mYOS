@@ -1,7 +1,5 @@
 # mYOS
-
-A simple custom x86 operating system written in C and Assembly.
-
+mYOS (minimal x86 Operating System) is a hobby operating system written in C and x86 Assembly.
 ---
 
 # Quick Start (Windows)
