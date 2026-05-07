@@ -42,7 +42,7 @@ A simple custom x86 operating system written in C and Assembly.
 ---
 
 ## Project Structure
-
+```
 mYOS/
 │
 ├── src/
@@ -61,7 +61,7 @@ mYOS/
 ├── kernel.elf
 ├── mYOS.img
 └── README.md
-
+```
 
 ---
 
